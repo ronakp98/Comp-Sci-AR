@@ -5,7 +5,7 @@ This repository is the Unity project for a mobile application that is used to te
 
 Currently, there is one topic implemented of classes and objects. 
 
-More changes are soon to come with implementations of:
-    - Voiceovers presenting prompts
-    - Sound effects for animations
-    - Code snippet feature to show example code
+More changes are soon to come with implementations of:\n
+    - Voiceovers presenting prompts\n
+    - Sound effects for animations\n
+    - Code snippet feature to show example code\n

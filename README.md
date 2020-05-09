@@ -1,5 +1,5 @@
 # CompSciAR
-**Description and Future Changes**<br>
+**Description and Future Changes**<br><br>
  Mobile application to assist students learning computer science through the use of AR
 
 This repository is the Unity project for a mobile application that is used to teach computing concepts through the use of augmented reality.
